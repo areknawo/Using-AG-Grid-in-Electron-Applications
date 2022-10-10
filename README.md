@@ -1,4 +1,4 @@
-# Using AG Grid React UI with Remix.run
+# Using AG Grid in Electron Applications
 
 - [Electron Docs](https://www.electronjs.org/docs/latest)
 - [AG Grid JavaScript Docs](https://www.ag-grid.com/javascript-data-grid/)
